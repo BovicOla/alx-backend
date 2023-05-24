@@ -1,1 +1,4 @@
-"Bienvenue chez Holberton"
+#: path/to/source/file.php:123
+msgid "home_title"
+msgstr "Bienvenue chez Holberton"
+
